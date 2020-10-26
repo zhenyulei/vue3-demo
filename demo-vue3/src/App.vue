@@ -23,7 +23,15 @@
     <!-- <Demo21></Demo21> -->
     <!-- <Demo22></Demo22> -->
     <!-- <Demo23></Demo23> -->
-    <Demo24></Demo24>
+    <!-- <Demo24></Demo24> -->
+    <!-- <Demo25></Demo25> -->
+    <!-- <Demo26></Demo26> -->
+    <!-- <Demo27></Demo27> -->
+    <!-- <Demo28></Demo28> -->
+    <!-- <Demo29></Demo29> -->
+    <!-- <Demo30></Demo30> -->
+    <!-- <Demo31></Demo31> -->
+<Demo32></Demo32>
   </div>
 </template>
 
@@ -53,10 +61,14 @@ import Demo21 from './components/demo21.vue'
 import Demo22 from './components/demo22.vue'
 import Demo23 from './components/demo23.vue'
 import Demo24 from './components/demo24.vue'
-
-
-
-
+import Demo25 from './components/demo25.vue'
+import Demo26 from './components/demo26.vue'
+import Demo27 from './components/demo27.vue'
+import Demo28 from './components/demo28.vue'
+import Demo29 from './components/demo29.vue'
+import Demo30 from './components/demo30.vue'
+import Demo31 from './components/demo31.vue'
+import Demo32 from './components/demo32.vue'
 
 export default {
   name: 'App',
@@ -85,7 +97,15 @@ export default {
     Demo21,
     Demo22,
     Demo23,
-    Demo24
+    Demo24,
+    Demo25,
+    Demo26,
+    Demo27,
+    Demo28,
+    Demo29,
+    Demo30,
+    Demo31,
+    Demo32
   }
 }
 </script>
